@@ -30,4 +30,6 @@
 ## 08_01_2026
 
 - A_New_Year_String.cpp
+- B_New_Year_Cake.cpp
+- leetcode_30_Substring with Concatenation of All Words.cpp
 
