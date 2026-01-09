@@ -33,3 +33,7 @@
 - B_New_Year_Cake.cpp
 - leetcode_30_Substring with Concatenation of All Words.cpp
 
+## 09_01_2026
+
+- leetcode_224_Basic Calculator.cpp
+
