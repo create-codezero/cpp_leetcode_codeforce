@@ -37,3 +37,7 @@
 
 - leetcode_224_Basic Calculator.cpp
 
+## 10_01_2026
+
+- leetcode_81_Maximal Rectangle.cpp
+
