@@ -49,3 +49,7 @@
 
 - leetcode_239_Sliding Window Maximum.cpp
 
+## 13_01_2026
+
+- leetcode_42_Trapping Rain Water.cpp
+
