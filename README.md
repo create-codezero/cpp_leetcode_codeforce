@@ -70,3 +70,7 @@
 - A_Array_Coloring.cpp
 - leetcode_149_Max Points on a Line.cpp
 
+## 18_01_2026
+
+- leetcode_773_Sliding Puzzle.cpp
+
